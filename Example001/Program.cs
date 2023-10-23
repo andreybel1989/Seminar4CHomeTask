@@ -35,4 +35,4 @@ int GetPower()
 
 int number = GetNumber();
 int power = GetPower();
-Console.WriteLine($"number {number} in power {power} {GetPowNumber(number, power)}");
+Console.WriteLine($"number {number} in power {power} is {GetPowNumber(number, power)}");
